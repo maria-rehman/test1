@@ -1,0 +1,29 @@
+To customize your tmux configuration file, follow these steps:
+
+1. Open your terminal.
+
+2. Use a text editor such as `nano` or `vim` to create or edit your `.tmux.conf` file. You can do this by running:
+
+   ```bash
+   nano ~/.tmux.conf
+   ```
+
+   or
+
+   ```bash
+   vim ~/.tmux.conf
+   ```
+
+3. Copy and paste the configurations from the tutorial into your `.tmux.conf` file.
+
+4. Save the changes and exit the text editor.
+
+5. Optionally, you can further customize the configurations according to your preferences.
+
+6. Test your tmux configurations by restarting tmux or reloading the configuration file. You can do this by running:
+
+   ```bash
+   tmux source-file ~/.tmux.conf
+   ```
+
+Once you've customized your tmux configuration, you can submit the updated `.tmux.conf` file. After that, I can help you create a PDF explaining the most useful customization you found and why, as well as designing a nice formHam logo.
